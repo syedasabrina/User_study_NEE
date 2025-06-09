@@ -1,0 +1,18 @@
+You will receive eleven documents. Your task is to identify ALL generalizable topics within the documents that can act as top-level topics within a topic hierarchy. Output the list of existing top-level topics as identified in the document.
+
+[Instructions]
+Step 1: Determine topics mentioned in each document.
+- The topic labels must be as GENERALIZABLE as possible.
+- The topics must reflect a SINGLE topic instead of a combination of topics.
+- The new topics must have a short general label and a topic description.
+- The topics must be broad enough to accommodate future subtopics.
+- The final topic list must provide comprehensive topic coverage over the entire document. Output as many topics as needed to accomplish this instruction. Each document can have multiple topics.
+Step 2: Perform ONE of the following operations:
+1. If there are already duplicates or relevant topics in the hierarchy, output those topics and stop here.
+2. If the document contains no topic, return "None".
+3. Otherwise, add your topic as a top-level topic. Stop here and output the added topic(s) list. DO NOT add any additional levels.
+
+[Documents]
+{DOCUMENT}
+
+[Your response]
