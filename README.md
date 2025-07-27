@@ -1,7 +1,7 @@
 # Costs and Benefits of AI-Enabled Topic Modeling in P-20 Research
 
 ## Paper:
-[Link](https://aclanthology.org/2025.bea-1.34/)
+[Costs and Benefits of AI-Enabled Topic Modeling in P-20 Research: The Case of School Improvement Plans](https://aclanthology.org/2025.bea-1.34/)
 
 ## Citation:
 
